@@ -1,0 +1,5 @@
+# Copie este archivo como config/db.properties para usar otra base o credenciales.
+# El usuario saludar_app lo crea el script db/saludar.sql (solo SELECT, INSERT, UPDATE).
+db.url=jdbc:mysql://localhost:3306/saludar?sslMode=PREFERRED&connectionTimeZone=LOCAL&characterEncoding=UTF-8
+db.usuario=saludar_app
+db.clave=SaludAR#2026

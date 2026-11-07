@@ -1,2 +1,8 @@
+target/
 bin/
 *.class
+config/db.properties
+.idea/
+*.iml
+.vscode/
+entrega/guion-video.md
